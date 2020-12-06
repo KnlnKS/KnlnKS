@@ -12,8 +12,8 @@
 
 ### About Me 👦
 
-- 🔭 I’m currently working on: Algorithimic Trading, Reccomendation Systems, and 
-- 🌱 I’m currently learning: TensorFlow!
+- 🔭 I’m currently working on: Algorithimic Trading, Recommendation Systems, and more!
+- 🌱 I’m currently learning: TensorFlow.
 - 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me: kunalan.k.subagaran@gmail.com
 - 😄 Pronouns: he/him
