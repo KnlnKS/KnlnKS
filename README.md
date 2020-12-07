@@ -23,6 +23,8 @@
 
 <a href="https://www.java.com/en/"><img alt="Java" src='https://simpleicons.org/icons/java.svg' width='30'/></a>
 <a href="https://www.python.org/"><img alt="Python" src='https://simpleicons.org/icons/python.svg' width='30'/></a>
+<a href="https://www.tensorflow.org/"><img alt="TensorFlow" src='https://simpleicons.org/icons/tensorflow.svg' width='30'/></a>
+<a href="https://keras.io/"><img alt="Keras" src='https://simpleicons.org/icons/keras.svg' width='30'/></a>
 <a href="https://numpy.org/"><img alt="NumPy" src='https://simpleicons.org/icons/numpy.svg' width='30'/></a>
 <a href="https://pandas.pydata.org/"><img alt="Pandas" src='https://simpleicons.org/icons/pandas.svg' width='30'/></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img alt="C (programming language)" src='https://simpleicons.org/icons/c.svg' width='30'/></a>
