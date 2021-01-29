@@ -6,10 +6,9 @@
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:19kks1@queensu.ca)
 [![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=KKS+-+Games)
 
-
 <div>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KnlnKS&count_private=true,contribs&show_icons=false&theme=onedark&hide_border=true" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KnlnKS&count_private=true,contribs&show_icons=false&theme=tokyonight&hide_border=true" /> 
 </a>
 </div>
 
