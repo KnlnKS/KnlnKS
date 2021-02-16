@@ -7,9 +7,7 @@
 [![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=KKS+-+Games)
 
 <div>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=KnlnKS&count_private=true,contribs&show_icons=false&theme=tokyonight&hide_border=true" /> 
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=KnlnKS&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /> 
 </div>
 
 ### About Me 👦
