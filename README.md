@@ -10,8 +10,8 @@
 
 ### About Me 👦
 
-- 🔭 I’m currently working on: Algorithimic Trading, Recommendation Systems, and more!
-- 🌱 I’m currently learning: TensorFlow.
+- 🔭 I’m currently working on: Recommendation Systems and more!
+- 🌱 I’m currently learning: TensorFlow and Image Compression.
 - 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me: kunalan.k.subagaran@gmail.com
 - 😄 Pronouns: he/him
