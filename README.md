@@ -7,11 +7,12 @@
 [![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=KKS+-+Games)
 
 ![Kunalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnlnKS&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KnlnKS&theme=tokyonight&hide_border=true)
 
 ### About Me 👦
 
 - 🔭 I’m currently working on: Recommendation Systems and more!
-- 🌱 I’m currently learning: TensorFlow and Image Compression.
+- 🌱 I’m currently learning: TensorFlow.
 - 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me: kunalan.k.subagaran@gmail.com
 - 😄 Pronouns: he/him
@@ -40,9 +41,3 @@
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions%20-%232671E5.svg?&style=for-the-badge&logo=github%20actions&logoColor=white"/>
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
-
-
-
-<!--
-**KnlnKS/KnlnKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
