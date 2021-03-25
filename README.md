@@ -11,8 +11,8 @@
 
 ### About Me 👦
 
-- 🔭 I’m currently working on: Recommendation Systems and more!
-- 🌱 I’m currently learning: TensorFlow.
+- 🔭 I’m currently working on: CLIs and more!
+- 🌱 I’m currently learning: Go.
 - 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me: kunalan.k.subagaran@gmail.com
 - 😄 Pronouns: he/him
