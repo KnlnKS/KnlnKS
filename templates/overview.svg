@@ -31,7 +31,7 @@ th {
   text-align: left;
   font-size: 14px;
   font-weight: 600;
-  color: rgb(92, 132, 202);
+  color: rgb(112, 164, 252);
 }
 
 td {
