@@ -6,7 +6,6 @@
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:19kks1@queensu.ca)
 [![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=KKS+-+Games)
 
-![Kunalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnlnKS&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 ![Kunalan's GitHub overview](https://github.com/KnlnKS/KnlnKS/blob/main/generated/overview.svg)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KnlnKS&theme=tokyonight&hide_border=true)
 
