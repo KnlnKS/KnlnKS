@@ -7,7 +7,6 @@
 [![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=KKS+-+Games)
 
 ![Kunalan's GitHub overview](https://github.com/KnlnKS/KnlnKS/blob/main/generated/overview.svg)
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KnlnKS&theme=tokyonight&hide_border=true)
 
 ### About Me 👦
 
