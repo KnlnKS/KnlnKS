@@ -10,6 +10,7 @@ svg {
   width: calc(100% - 10px);
   height: calc(100% - 10px);
   fill: rgb(26, 27, 39);
+  stroke: 0px;
   rx: 6px;
   ry: 6px;
 }
