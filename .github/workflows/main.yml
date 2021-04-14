@@ -64,5 +64,5 @@ jobs:
         git config --global user.email "github-stats[bot]@jstrieb.github.io"
         git add .
         # "echo" returns true so the build succeeds, even if no changed files
-        git commit -m 'Update generated files' || echo
+        git commit -m '🎉 Update generated files' || echo
         git push
