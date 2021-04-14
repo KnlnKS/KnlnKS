@@ -8,7 +8,6 @@
 
 ![Kunalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=KnlnKS&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)
 ![Kunalan's GitHub overview](https://github.com/KnlnKS/KnlnKS/blob/main/generated/overview.svg)
-![Kunalan's GitHub languages](https://github.com/KnlnKS/KnlnKS/blob/main/generated/languages.svg)
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KnlnKS&theme=tokyonight&hide_border=true)
 
 ### About Me 👦
