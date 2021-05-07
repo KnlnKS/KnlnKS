@@ -10,8 +10,8 @@
 
 ### About Me 👦
 
-- 🔭 I’m currently working on: A bunch of stuff...
-- 🌱 I’m currently learning: A bunch of stuff...
+- 🔭 I’m currently working on: Apps.
+- 🌱 I’m currently learning: Kotlin.
 - 👯 I’m looking to collaborate on: Anything cool!
 - 📫 How to reach me: kunalan.k.subagaran@gmail.com
 - 😄 Pronouns: he/him
