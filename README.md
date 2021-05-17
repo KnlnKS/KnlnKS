@@ -7,6 +7,8 @@
 [![](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=KKS+-+Games)
 
 ![Kunalan's GitHub overview](https://github.com/KnlnKS/KnlnKS/blob/main/generated/overview.svg)
+![Kunalan's LeetCode Stats](https://github.com/KnlnKS/leetcode-stats/blob/master/generated/stats.svg)
+
 
 ### About Me 👦
 
