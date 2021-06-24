@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Kunalan Kevin Subagaran
 
-<!-- [![](https://img.shields.io/badge/🌐website-gray?&style=for-the-badge)](https://google.ca) -->
+[![](https://img.shields.io/badge/📄resume-gray?&style=for-the-badge)](https://github.com/KnlnKS/resume/blob/master/main.pdf)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevin-s-a76b741b0/)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunalan.k.subagaran@gmail.com)
 [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:19kks1@queensu.ca)
