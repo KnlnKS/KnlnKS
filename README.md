@@ -18,7 +18,7 @@
 ### LeetCode Stats
 
 
-![Kunalan's LeetCode Stats](https://github.com/KnlnKS/leetcode-stats/blob/master/generated/stats.svg)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
