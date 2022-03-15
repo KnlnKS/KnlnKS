@@ -16,9 +16,9 @@
 - 😄 Pronouns: he/him
 
 ### LeetCode Stats
-
-
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api/v2/solved-problems?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<a href="https://github.com/KnlnKS/leetcode-stats">
+  <img alt="LeetCode Stat Card" src="https://apu5rh8gxk.execute-api.us-east-1.amazonaws.com/default/leetcode-stats?username=KnlnKS&theme=dark" width="400"/>
+</a>
 
 
 
