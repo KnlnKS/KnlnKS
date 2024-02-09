@@ -13,6 +13,9 @@
 - 📫 How to reach me: kunalan.k.subagaran@gmail.com
 - 😄 Pronouns: he/him
 
+### Music 🎵
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Soulkks)
+
 ### LeetCode Stats
 <a href="https://github.com/KnlnKS/leetcode-stats">
   <img alt="LeetCode Stat Card" src="https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark" width="400"/>
