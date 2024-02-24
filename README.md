@@ -14,7 +14,7 @@
 - 😄 Pronouns: he/him
 
 ### Music 🎵
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Soulkks)
+[![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=Soulkks)](https://www.last.fm/user/soulkks)
 
 ### LeetCode Stats
 <a href="https://github.com/KnlnKS/leetcode-stats">
